@@ -38,7 +38,7 @@ const userChats = new Map();
 const welcomeMessage = `
 🤖 *Shamim AI Assistant*
 
-আমি Gemini AI দ্বারা পরিচালিত একটি Telegram Chat Bot।
+আমি Shamim Team দ্বারা পরিচালিত একটি Telegram Chat Bot।
 
 তুমি আমাকে বাংলা বা ইংরেজিতে যেকোনো প্রশ্ন করতে পারো।
 
