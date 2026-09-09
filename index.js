@@ -121,11 +121,11 @@ bot.onText(/^\/about$/, async (msg) => {
     `
 *Shamim AI Assistant*
 
-Powered by Gemini AI
+Powered by @spdfairyappi
 
 বাংলা ও ইংরেজি ভাষায় চ্যাট করা যায়।
 
-তোমার মেসেজের উত্তর AI তৈরি করে।
+তোমার মেসেজের উত্তর @ArisaRoseBot তৈরি করে।
 `,
     { parse_mode: "Markdown" }
   );
@@ -282,7 +282,7 @@ bot.on("message", async (msg) => {
 
     await bot.sendMessage(
       chatId,
-      "দুঃখিত, AI-এর সাথে যোগাযোগ করতে সমস্যা হয়েছে। একটু পরে আবার চেষ্টা করো।"
+      "দুঃখিত, @ArisaRoseBot -এর সাথে যোগাযোগ করতে সমস্যা হয়েছে। একটু পরে আবার চেষ্টা করো।"
     );
   }
 });
