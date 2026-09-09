@@ -1,0 +1,14 @@
+{
+  "name": "ArisaRoseBot",
+  "version": "1.0.0",
+  "description": "Telegram AI Chat Bot powered by Gemini",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
